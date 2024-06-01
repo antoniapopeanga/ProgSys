@@ -1,0 +1,21 @@
+total 148
+drwxrwxr-x 2 antonia antonia  4096 oct 19 14:24 .
+drwxrwxr-x 4 antonia antonia  4096 oct  5 15:48 ..
+-rwxrwxr-x 1 antonia antonia 16384 oct 19 14:18 1.3
+-rw-rw-r-- 1 antonia antonia  1426 oct 19 14:17 1.3.c
+-rwxrwxr-x 1 antonia antonia 16504 oct 19 14:23 1.4
+-rw-rw-r-- 1 antonia antonia  1765 oct 19 14:23 1.4.c
+-rw-rw-r-- 1 antonia antonia     0 oct 12 20:41 error.log
+-rwxrwxr-x 1 antonia antonia 16392 oct 12 20:47 fauxpipe
+-rw-rw-r-- 1 antonia antonia  1053 oct 12 20:47 fauxpipe.c
+-rw-rw-r-- 1 antonia antonia     0 oct 19 14:24 log
+-rw-rw-r-- 1 antonia antonia     0 oct 19 14:24 output.txt
+-rwxrwxr-x 1 antonia antonia 16312 oct 19 14:12 taille
+-rw-rw-r-- 1 antonia antonia   883 oct 19 14:12 taille.c
+-rw-rw-r-- 1 antonia antonia    76 oct 19 11:39 tmp
+-rw------- 1 antonia antonia     0 oct  5 16:51 tmp.tmp
+-rw-rw-r-- 1 antonia antonia     0 oct  5 17:42 v
+-rwxrwxr-x 1 antonia antonia 16392 oct 19 14:03 vraipipe
+-rwxrwxr-x 1 antonia antonia 16400 oct 19 13:59 vraipipe2
+-rw-rw-r-- 1 antonia antonia  1260 oct 19 13:59 vraipipe2.c
+-rw-rw-r-- 1 antonia antonia  1209 oct 19 14:04 vraipipe.c
