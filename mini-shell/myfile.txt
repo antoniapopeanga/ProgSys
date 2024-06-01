@@ -1,0 +1,4 @@
+bonjour
+bonsoir
+ls -l ; echo "Hello" ; cat myfile.txt
+ls -al | grep "file" | wc -l

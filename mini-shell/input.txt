@@ -1,0 +1,7 @@
+Les entiers 0 et 1, apparaissant entre parenthèses dans le prompt, correspondent à la valeur
+de l’exit status de la dernière commande. Cette valeur est conservée dans la variable globale
+shellStatus. On notera que cette valeur n’est pas modifiée par l’exécution d’une commande
+vide.
+Le fichier Shell.c comporte une description des structures de données employées. On pourra
+également consulter la fonction printExpr() pour voir comment explorer récursivement la
+structure de donnée associée à une expression
